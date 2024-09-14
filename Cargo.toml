@@ -1,7 +1,8 @@
 [package]
-name = "pond_cli"
+name = "pond"
 version = "0.1.0"
 edition = "2021"
+description = "A simple tool to deploy projects to a self hosted server"
 
 [dependencies]
 anyhow = "1.0.86"
